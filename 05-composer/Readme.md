@@ -1,4 +1,4 @@
-# 5 composer導入
+# 5 composerオートロード
 
 ## git clone直後に1回だけやること
 

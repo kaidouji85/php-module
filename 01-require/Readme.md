@@ -1,4 +1,4 @@
-# 01 require_once
+# 01 require_onceをシンプルに使う
 
 ## 動かし方
 
